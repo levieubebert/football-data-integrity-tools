@@ -60,4 +60,4 @@ No files, prediction code, datasets, model parameters, or secrets were taken fro
 
 ## License
 
-**License decision pending.** Do not assume permission to redistribute or modify this project until a license is explicitly selected and published.
+This project is licensed under the [MIT License](LICENSE). The license applies only to the code and documentation published in this repository; it does not grant rights to any separate private repository, private dataset, model, credential, or third-party data source.
